@@ -1,0 +1,23 @@
+body{
+    font-family: "Inconsolata", monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    /* text-align: center; */
+    width: 500px;
+}
+
+.kotak-input {
+    display: block;
+    resize: none;
+    margin: 10px auto;
+}
+
+p > span {
+    color: coral;
+    font-weight: bold;
+}
