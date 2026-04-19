@@ -9,7 +9,6 @@ const formatter = new Intl.DateTimeFormat('id-ID', {
 
 const formattedDate = formatter.format(now);
 
-// Kapitalisasi huruf pertama (opsional, biar mirip contoh)
 const result = formattedDate.charAt(0).toUpperCase() + formattedDate.slice(1);
 
 console.log(result);
