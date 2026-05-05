@@ -1,0 +1,7 @@
+{
+  "name": "text-utils-daffa",
+  "version": "1.0.0",
+  "description": "Library untuk menghitung huruf dan kata",
+  "type": "module",
+  "main": "index.js"
+}
