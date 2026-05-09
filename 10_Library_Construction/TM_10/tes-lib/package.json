@@ -1,0 +1,12 @@
+{
+  "name": "tes-lib",
+  "version": "1.0.0",
+  "description": "Testing library mtk_gampang",
+  "type": "module",
+  "main": "index.js",
+  "author": "Daffa",
+  "license": "ISC",
+  "dependencies": {
+    "libr": "file:../mtk_gampang"
+  }
+}
