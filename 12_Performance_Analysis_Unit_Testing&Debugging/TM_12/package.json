@@ -1,0 +1,12 @@
+{
+  "name": "tm_12",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "hitung.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
